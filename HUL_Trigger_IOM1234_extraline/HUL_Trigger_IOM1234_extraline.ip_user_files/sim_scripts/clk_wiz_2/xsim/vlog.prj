@@ -1,4 +1,0 @@
-verilog mylib "../../../ip/clk_wiz_2/clk_wiz_2_clk_wiz.v" --include "../../../ipstatic"
-verilog mylib "../../../ip/clk_wiz_2/clk_wiz_2.v" --include "../../../ipstatic"
-verilog mylib "glbl.v"
-nosort

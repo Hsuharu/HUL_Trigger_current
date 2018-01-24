@@ -1,3 +1,0 @@
-clk_wiz_2_clk_wiz.v,verilog,mylib,../../../ip/clk_wiz_2/clk_wiz_2_clk_wiz.v,incdir="$ref_dir/../../../ipstatic"incdir="../../../ipstatic"
-clk_wiz_2.v,verilog,mylib,../../../ip/clk_wiz_2/clk_wiz_2.v,incdir="$ref_dir/../../../ipstatic"incdir="../../../ipstatic"
-glbl.v,Verilog,mylib,glbl.v
