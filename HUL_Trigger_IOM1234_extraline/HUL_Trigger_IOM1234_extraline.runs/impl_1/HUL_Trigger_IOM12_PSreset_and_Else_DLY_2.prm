@@ -1,0 +1,11 @@
+===================================
+Configuration Memory information
+===================================
+File Format        MCS
+Interface          SPIX1
+Size               16M
+Start Address      0x00000000
+End Address        0x00FFFFFF
+
+Addr1         Addr2         Date                    File(s)
+0x00000000    0x00661EDB    Jan  4 20:25:33 2018    C:/Users/suharu/Desktop/FPGA/HUL_Trigger_Pro_IOM12/HUL_Trigger_Pro_IOM12.runs/impl_1/toplevel.bit
